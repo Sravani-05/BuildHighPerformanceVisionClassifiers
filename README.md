@@ -1,6 +1,6 @@
 # BuildHighPerformanceVisionClassifiers
 
-Convolution and depth wise pooling layers - https://colab.research.google.com/drive/1bvpBYcdGPOFzZHqZ0Ae3G5QLZWPxC-fS?usp=sharing
+Convolution and depth wise pooling layers - https://colab.research.google.com/drive/1Xb_dEjwbZFKzgmLaIc2YhQU_1DNmP6J-?usp=share_link
 
 Various architectures and transfer learning
 
